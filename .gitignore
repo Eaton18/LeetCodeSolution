@@ -1,0 +1,21 @@
+
+# Compiled Source
+*.class
+*.exe
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# output
+*.log
+
+/target/
+.idea/
+Java/.idea
+Java/target
+*.iml
+.classpath
+.project
+.settings/
