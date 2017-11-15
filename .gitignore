@@ -13,8 +13,6 @@
 
 /target/
 .idea/
-Java/.idea
-Java/target
 *.iml
 .classpath
 .project
