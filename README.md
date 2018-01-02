@@ -25,5 +25,5 @@ My Solutions of [LeetCode][1]
   [10]: https://leetcode.com/problems/remove-element/description/
   [11]: https://github.com/Eaton18/LeetCodeSolution/tree/master/Java/java/problem027/removeelement
   [12]: https://leetcode.com/problems/search-insert-position/description/
-  [13]: https://github.com/Eaton18/LeetCodeSolution/tree/master/Java/java/problem027/searchinsertposition
+  [13]: https://github.com/Eaton18/LeetCodeSolution/tree/master/Java/java/problem035/searchinsertposition
   
