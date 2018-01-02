@@ -1,6 +1,7 @@
 package problem035.searchinsertposition;
 
 import utilities.array.ArrayOps;
+import utilities.testcase.TestCase;
 
 /**
  * problem link: https://leetcode.com/problems/search-insert-position/description/
@@ -17,10 +18,6 @@ public class SearchInsertPosition {
         }
 
         return index;
-    }
-
-    public enum Testcase {
-        TESTCASE_1, TESTCASE_2, TESTCASE_3, TESTCASE_4
     }
 
     public static void main(String[] args) {
@@ -47,7 +44,7 @@ public class SearchInsertPosition {
         int val3 = 7;
         int val4 = 0;
 
-        Testcase testcase = Testcase.TESTCASE_4;
+        TestCase testcase = TestCase.TESTCASE_4;
         switch (testcase) {
             case TESTCASE_1:
                 nums = testcase1;
