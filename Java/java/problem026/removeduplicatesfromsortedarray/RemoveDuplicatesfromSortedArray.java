@@ -4,8 +4,7 @@ import sun.security.util.Length;
 import utilities.array.ArrayOps;
 
 /**
- * Created by eaton on 12/27/2017.
- * https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+ * problem link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
  */
 public class RemoveDuplicatesfromSortedArray {
 
