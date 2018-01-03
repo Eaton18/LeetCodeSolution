@@ -15,7 +15,7 @@ My Solutions of [LeetCode][1]
 |88|[Merge Sorted Array][6]|[Java][7]|Easy|Array|
 |118|[Pascal's Triangle][18]|[Java][19]|Easy|Array|
 |119|[Pascal's Triangle II][20]|[Java][21]|Easy|Array|
-|119|[Single Number][22]|[Java][23]|Easy|Array|
+|136|[Single Number][22]|[Java][23]|Easy|Array|
 
 
   [1]: https://leetcode.com/
