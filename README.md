@@ -1,4 +1,4 @@
-# LeetCodeSolution
+# LeetCode Solution
 
 My Solutions of [LeetCode][1]
 
@@ -13,6 +13,7 @@ My Solutions of [LeetCode][1]
 |53|[Maximum Subarray][14]|[Java][15]|Easy|Array, Dynamic Programming|
 |66|[Plus One][16]|[Java][17]|Easy|Array|
 |88|[Merge Sorted Array][6]|[Java][7]|Easy|Array|
+|118|[Pascal's Triangle][18]|[Java][19]|Easy|Array|
 
 
   [1]: https://leetcode.com/
@@ -32,5 +33,6 @@ My Solutions of [LeetCode][1]
   [15]: https://github.com/Eaton18/LeetCodeSolution/tree/master/Java/java/problem053/maximumsubarray
   [16]: https://leetcode.com/problems/plus-one/description/
   [17]: https://github.com/Eaton18/LeetCodeSolution/tree/master/Java/java/problem066/plusone  
-  
+  [18]: https://leetcode.com/problems/pascals-triangle/description/
+  [19]: https://github.com/Eaton18/LeetCodeSolution/tree/master/Java/java/problem118/pascaltriangle
   
