@@ -37,9 +37,10 @@ public class PascalTriangle {
 
         int numRows = 0;
 
-        int testcase1 = 5;
-        int testcase2 = 10;
-        int testcase3 = 18;
+        int testcase1 = 0;
+        int testcase2 = 5;
+        int testcase3 = 10;
+        int testcase4 = 18;
 
         TestCase testcase = TestCase.TESTCASE_2;
         switch (testcase) {
@@ -52,6 +53,9 @@ public class PascalTriangle {
             case TESTCASE_3:
                 numRows = testcase3;
                 break;
+            case TESTCASE_4:
+                numRows = testcase4;
+                break;
             default:
                 break;
         }
@@ -63,7 +67,7 @@ public class PascalTriangle {
             List<Integer> itPascalRow = itPascalTriangle.next();
             Iterator<Integer> it = itPascalRow.iterator();
             while (it.hasNext()) {
-                System.out.print(it.next());
+                System.out.print(it.next() + " ");
             }
             System.out.println();
         }
