@@ -11,6 +11,7 @@ My Solutions of [LeetCode][1]
 |27|[Remove Element][10]|[Java][11]|Easy|Array|
 |35|[Search Insert Position][12]|[Java][13]|Easy|Array|
 |53|[Maximum Subarray][14]|[Java][15]|Easy|Array, Dynamic Programming|
+|66|[Plus One][16]|[Java][17]|Easy|Array|
 |88|[Merge Sorted Array][6]|[Java][7]|Easy|Array|
 
 
@@ -29,4 +30,7 @@ My Solutions of [LeetCode][1]
   [13]: https://github.com/Eaton18/LeetCodeSolution/tree/master/Java/java/problem035/searchinsertposition
   [14]: https://leetcode.com/problems/maximum-subarray/description/
   [15]: https://github.com/Eaton18/LeetCodeSolution/tree/master/Java/java/problem053/maximumsubarray
+  [16]: https://leetcode.com/problems/plus-one/description/
+  [17]: https://github.com/Eaton18/LeetCodeSolution/tree/master/Java/java/problem066/plusone  
+  
   

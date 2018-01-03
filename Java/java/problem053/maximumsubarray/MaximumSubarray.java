@@ -124,13 +124,13 @@ public class MaximumSubarray {
 
         ArrayOps.printArray("Original Array: ", nums);
 
-        long startTime = System.currentTimeMillis();  //get start time
+        long startTime = System.nanoTime();  //get start time
 
         int maxsum = maxSubArray_DP_1(nums);
         System.out.println("Max Sum: " + maxsum);
 
-        long endTime = System.currentTimeMillis();  //get end time
+        long endTime = System.nanoTime();  //get end time
 
-        System.out.println("Application running time: " + (endTime - startTime) + "ms");
+        System.out.println("Application running time: " + (endTime - startTime) + "ns");
     }
 }
