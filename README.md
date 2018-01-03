@@ -5,7 +5,7 @@ My Solutions of [LeetCode][1]
 
 | # | Title | Solution | Difficulty | Topic |
 |:---:|:-----:|:--------:|:--------:|:---------:|
-|1|[Two Sum][2]|[Java][3]|Easy|Array|
+|1|[Two Sum][2]|[Java][3]|Easy|Array, Hash Table|
 |7|[Reverse Integer][4]|[Java][5]|Easy|Math|
 |26|[Remove Duplicates from Sorted Array][8]|[Java][9]|Easy|Array|
 |27|[Remove Element][10]|[Java][11]|Easy|Array|
@@ -15,6 +15,7 @@ My Solutions of [LeetCode][1]
 |88|[Merge Sorted Array][6]|[Java][7]|Easy|Array|
 |118|[Pascal's Triangle][18]|[Java][19]|Easy|Array|
 |119|[Pascal's Triangle II][20]|[Java][21]|Easy|Array|
+|119|[Single Number][22]|[Java][23]|Easy|Array|
 
 
   [1]: https://leetcode.com/
@@ -38,3 +39,5 @@ My Solutions of [LeetCode][1]
   [19]: https://github.com/Eaton18/LeetCodeSolution/tree/master/Java/java/problem118/pascaltriangle
   [20]: https://leetcode.com/problems/pascals-triangle-ii/description/
   [21]: https://github.com/Eaton18/LeetCodeSolution/tree/master/Java/java/problem119/pascaltriangle2
+  [22]: https://leetcode.com/problems/single-number/description/
+  [23]: https://github.com/Eaton18/LeetCodeSolution/tree/master/Java/java/problem136/singlenumber
