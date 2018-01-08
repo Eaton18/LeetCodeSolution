@@ -7,6 +7,7 @@ My Solutions of [LeetCode][1]
 |:---:|:-----:|:--------:|:--------:|:---------:|
 |1|[Two Sum][2]|[Java][3]|Easy|Array, Hash Table|
 |7|[Reverse Integer][4]|[Java][5]|Easy|Math|
+|21|[Merge Two Sorted Lists][24]|[Java][25]|Easy|Linked List|
 |26|[Remove Duplicates from Sorted Array][8]|[Java][9]|Easy|Array|
 |27|[Remove Element][10]|[Java][11]|Easy|Array|
 |35|[Search Insert Position][12]|[Java][13]|Easy|Array|
@@ -41,3 +42,6 @@ My Solutions of [LeetCode][1]
   [21]: https://github.com/Eaton18/LeetCodeSolution/tree/master/Java/java/problem119/pascaltriangle2
   [22]: https://leetcode.com/problems/single-number/description/
   [23]: https://github.com/Eaton18/LeetCodeSolution/tree/master/Java/java/problem136/singlenumber
+  [24]: https://leetcode.com/problems/merge-two-sorted-lists/description/
+  [25]: https://github.com/Eaton18/LeetCodeSolution/tree/master/Java/java/problem021/mergetwosortedlists
+  
